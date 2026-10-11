@@ -1,1 +1,0 @@
-![TEST](ASSETS/mobius-spinning.gif)
